@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+python-pptx
+requests
+deep-translator
